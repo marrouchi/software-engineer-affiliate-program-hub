@@ -5,7 +5,7 @@ Welcome to the Software Engineer's Affiliate Program Hub! This repository serves
 
 ## Sponsors Or Affiliate Links
 
-[![Affiliate Marketing Website online course](https://github.com/user-attachments/assets/be479a2e-1063-48ed-ab5f-d68653f6858e)](https://benable.com/a/5qby9bc)
+[![Course To Improve Earning](https://github.com/user-attachments/assets/5ddc1132-4479-4c76-8131-0b25d5aee681)](https://benable.com/a/nfgdrxk)
 
 **Be my sponsor and your logo will be here!**
 
