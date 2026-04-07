@@ -5,7 +5,7 @@ Welcome to the Software Engineer's Affiliate Program Hub! This repository serves
 
 ## Sponsors Or Affiliate Links
 
-[![Course To Improve Earning](https://github.com/user-attachments/assets/5ddc1132-4479-4c76-8131-0b25d5aee681)](https://benable.com/a/nfgdrxk)
+[![Course To Improve Earning](https://github.com/user-attachments/assets/5ea3d030-849b-4ef3-9585-c1850eb450fc)](https://benable.com/a/nfgdrxk)
 
 **Be my sponsor and your logo will be here!**
 
